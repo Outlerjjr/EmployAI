@@ -4,7 +4,7 @@
 **EmployAI** is my latest big project, an AI-powered assistant designed to help streamline the hiring process. It features a resume parser, a ranking system to evaluate candidates, and an AI chatbot to answer hiring questions. Pretty cool, right?
 
 > ⚠️ **Just a heads up**: While this app is pretty awesome, the data you see on the site is for demo purposes. It's not 100% accurate, so use it with a pinch of salt!
-> - **Please note**: The experience years feature may not always work as intended, and we're working to fix it in future updates. We appreciate your patience and understanding as we continue improving the system!
+> - **Please note**: The experience years feature may not always work as intended, and shall hopefully get fixed in the future.
 
 ---
 
