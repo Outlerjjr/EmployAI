@@ -1,0 +1,74 @@
+﻿@model  EmployAI.Models.Register  
+      
+<section class="section register  d-flex flex-column align-items-center justify-content-center ">
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center justify-content-center">
+  
+                <div class="d-flex justify-content-center ">
+                    <a href="index.html" class="logo d-flex align-items-center w-auto text-decoration-none">
+                        <img src="~/images/logo.png" alt="">
+                    <span class="d-none d-lg-block">EmployAI</span>
+                  </a>
+                </div><!-- End Logo -->
+  
+                <div class="card mb-3">
+  
+                  <div class="card-body">
+  
+                    <div class="pt-4 pb-2">
+                      <h5 class="card-title text-center pb-0 fs-4">Create an Account</h5>
+                      <p class="text-center small">Enter the required details to create an account</p>
+                    </div>
+  
+                    <form  asp-action="register" method="post" class="row g-3 needs-validation" novalidate >
+                        <div class="col-12">
+                            <label asp-for="Name" class="form-label">Your Name</label>
+                            <input type="text" name="name" class="form-control" asp-for="Name" id="yourName" required pattern="^[A-Za-z\s]{3,}$">
+                            <div asp-validation-for="Name" class="invalid-feedback">Please, enter your name! It must be at least 3 characters long and only contain letters and spaces.</div>
+                        </div>
+                    
+                        <div class="col-12">
+                            <label  asp-for="Email" class="form-label">Your Email</label>
+                            <input type="email" asp-for="Email" name="email" class="form-control" id="yourEmail" required>
+                            <div asp-validation-for="Email" class="invalid-feedback">Please enter a valid email address!</div>
+                        </div>
+                    
+                        <div class="col-12">
+                            <label  asp-for="Username" class="form-label">Username</label>
+                            <div class="input-group has-validation">
+                                <input  asp-for="Username" type="text" name="username" class="form-control" id="yourUsername" required pattern="^[a-zA-Z0-9]{3,20}$">
+                                <div asp-validation-for="Username" class="invalid-feedback">Please choose a username. It should be 3-20 characters long and contain only letters and numbers.</div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-12">
+                            <label   asp-for="Password" class="form-label">Password</label>
+                            <input  asp-for="Password" type="password" name="password" class="form-control" id="yourPassword" required />
+                                   @* pattern="^(?=.*[A-Za-z])(?=.*\d)(?=.*[!@#$%^&*])[A-Za-z\d!@#$%^&*]{8,}$"> *@
+                                <span asp-validation-for="Password" class="text-danger"></span>
+
+                                   <div asp-validation-for="Password" class="invalid-feedback">Please enter your password! It must be at least 8 characters long and contain at least one special character, one number, one uppercase letter, and one lowercase letter.</div>
+                        </div>
+                    
+                        <div class="col-12">
+                            <button class="btn btn-primary w-100" type="submit">Create Account</button>
+                        </div>
+                        <div class="col-12">
+                            <p class="small mb-0">Already have an account? <a asp-action="login" asp-controller="Home">Log in</a></p>
+                        </div>
+                    </form>
+                    
+                    
+  
+                  </div>
+                </div>
+  
+  
+              </div>
+            </div>
+          </div>
+  
+        </section>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.0/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js"></script>

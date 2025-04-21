@@ -1,0 +1,13 @@
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\EmployAI.exe
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\EmployAI.dll
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\EmployAI.deps.json
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\EmployAI.runtimeconfig.json
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\EmployAI.pdb
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmed_zm1ddab\Desktop\Project\EmployAI\EmployAI\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\home\\analyze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\home\\analyze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\models\\analyzeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\models\\analyzeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\employai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\employai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\slides-3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\slides-3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\profile-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\profile-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\profile-img.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\profile-img.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\slides-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\slides-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\slides-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\slides-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\news-5.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\news-5.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\news-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\news-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\messages-3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\messages-3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\card.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\card.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\log22o.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\log22o.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\htami\\Downloads\\3\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\htami\\AppData\\Local\\Temp\\.vsdbgsrc\\505093b96f80eba222261ad92cb055f3b54d8101\\Views_Home_Analyze_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployAI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployAI\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\properties\\publishprofiles\\iisprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\properties\\publishprofiles\\iisprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\models\\uplodefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\models\\uplodefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\images\\news-4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\images\\news-4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|c:\\users\\htami\\desktop\\employai2\\employai\\employai\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D197E9F-271A-4FDF-AADE-4B08F44D798A}|EmployAI\\EmployAI.csproj|solutionrelative:employai\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "EmployAI\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:30:39.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Analyze.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\Analyze.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Home\\Analyze.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\Analyze.cshtml*",
+              "RelativeToolTip": "EmployAI\\Views\\Home\\Analyze.cshtml*",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:13:43.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalyzeForm.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\AnalyzeForm.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Models\\AnalyzeForm.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\AnalyzeForm.cs",
+              "RelativeToolTip": "EmployAI\\Models\\AnalyzeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:05:34.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "slides-1.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\slides-1.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\slides-1.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\slides-1.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\slides-1.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:26.363Z",
+              "EditorCaption": " - Bitmap [1024x683, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Program.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Program.cs",
+              "RelativeToolTip": "EmployAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:49:00.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployAI.csproj",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\EmployAI.csproj",
+              "RelativeDocumentMoniker": "EmployAI\\EmployAI.csproj",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\EmployAI.csproj",
+              "RelativeToolTip": "EmployAI\\EmployAI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T19:03:40.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "profile-1.jpg - Bitmap [4000x6000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\profile-1.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\profile-1.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\profile-1.jpg - Bitmap [4000x6000, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\profile-1.jpg - Bitmap [4000x6000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:29.976Z",
+              "EditorCaption": " - Bitmap [4000x6000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:46:05.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\Login.cs",
+              "RelativeToolTip": "EmployAI\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:13:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\Register.cs",
+              "RelativeToolTip": "EmployAI\\Models\\Register.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:13:25.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Models\\Resume.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\Resume.cs",
+              "RelativeToolTip": "EmployAI\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:13:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "slides-3.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\slides-3.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\slides-3.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\slides-3.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\slides-3.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:24.86Z",
+              "EditorCaption": " - Bitmap [1024x683, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "favicon.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\favicon.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\favicon.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-21T09:45:57.599Z",
+              "EditorCaption": " - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployAI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAuwCsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:33:03.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "slides-2.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\slides-2.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\slides-2.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\slides-2.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\slides-2.jpg - Bitmap [1024x683, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:25.66Z",
+              "EditorCaption": " - Bitmap [1024x683, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "profile-img.jpg - Bitmap [120x120, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\profile-img.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\profile-img.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\profile-img.jpg - Bitmap [120x120, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\profile-img.jpg - Bitmap [120x120, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:24.1Z",
+              "EditorCaption": " - Bitmap [120x120, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "news-5.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\news-5.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\news-5.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\news-5.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\news-5.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:19.503Z",
+              "EditorCaption": " - Bitmap [1024x768, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "news-1.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\news-1.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\news-1.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\news-1.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\news-1.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:18.037Z",
+              "EditorCaption": " - Bitmap [1024x768, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "messages-3.jpg - Bitmap [383x383, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\messages-3.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\messages-3.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\messages-3.jpg - Bitmap [383x383, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\messages-3.jpg - Bitmap [383x383, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:17.122Z",
+              "EditorCaption": " - Bitmap [383x383, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "card.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\card.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\card.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\card.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\card.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:16.029Z",
+              "EditorCaption": " - Bitmap [1024x768, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "log22o.png - PNG [257x257, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\log22o.png",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\log22o.png",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\log22o.png - PNG [257x257, 32 bit, PNG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\log22o.png - PNG [257x257, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T09:43:14.949Z",
+              "EditorCaption": " - PNG [257x257, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EmployAI\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T05:00:51.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployAI\\appsettings.json",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\appsettings.json",
+              "RelativeToolTip": "EmployAI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T19:07:51.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployAI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployAI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T18:12:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\js\\index.js",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "EmployAI\\wwwroot\\js\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T16:00:15.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "EmployAI\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAABwBAAAAAAAAAAAQwCwBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T14:48:18.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Downloads\\3\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\3\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Downloads\\3\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\3\\EmployAI\\EmployAI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T05:00:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:46:20.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IISProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "RelativeDocumentMoniker": "EmployAI\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "RelativeToolTip": "EmployAI\\Properties\\PublishProfiles\\IISProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-21T04:54:58.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployAI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\appsettings.Development.json",
+              "RelativeToolTip": "EmployAI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T19:08:02.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:46:10.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T17:07:33.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:21:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:14:43.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\FeedBack.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Models\\FeedBack.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\FeedBack.cs",
+              "RelativeToolTip": "EmployAI\\Models\\FeedBack.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:00:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\register.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Home\\register.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\register.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\Home\\register.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:19:48.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Views_Home_Analyze_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\AppData\\Local\\Temp\\.vsdbgsrc\\505093b96f80eba222261ad92cb055f3b54d8101\\Views_Home_Analyze_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\505093b96f80eba222261ad92cb055f3b54d8101\\Views_Home_Analyze_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\htami\\AppData\\Local\\Temp\\.vsdbgsrc\\505093b96f80eba222261ad92cb055f3b54d8101\\Views_Home_Analyze_cshtml.g.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\505093b96f80eba222261ad92cb055f3b54d8101\\Views_Home_Analyze_cshtml.g.cs [Read Only]",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwGcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:53:23.851Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "EmployAI\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "EmployAI\\Views\\Home\\login.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T18:14:22.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UplodeFile.cs",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\UplodeFile.cs",
+              "RelativeDocumentMoniker": "EmployAI\\Models\\UplodeFile.cs",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\Models\\UplodeFile.cs",
+              "RelativeToolTip": "EmployAI\\Models\\UplodeFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:28:24.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EmployAI\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T16:00:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "EmployAI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAgwL0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T14:49:23.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "news-4.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\news-4.jpg",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\images\\news-4.jpg",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\images\\news-4.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "RelativeToolTip": "EmployAI\\wwwroot\\images\\news-4.jpg - Bitmap [1024x768, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-20T14:48:06.682Z",
+              "EditorCaption": " - Bitmap [1024x768, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "EmployAI\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T18:10:53.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\css\\main.css",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "EmployAI\\wwwroot\\css\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T18:10:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EmployAI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\htami\\Desktop\\EmployAI2\\EmployAI\\EmployAI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EmployAI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-18T18:10:50.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

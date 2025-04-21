@@ -1,0 +1,145 @@
+﻿<style>
+    #response-container {
+        display: none; 
+        margin-top: 20px;
+        padding: 15px;
+        border: 1px solid #ccc;
+        background-color: #f9f9f9;
+    }
+
+    #response-data {
+        white-space: pre-wrap; 
+        word-wrap: break-word; 
+        font-family: monospace; 
+        padding: 10px;
+        border: 1px solid black;
+        background-color: black;
+    }
+</style>
+
+<div class="pagetitle">
+    <h1>Admin</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item active">Search</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section dashboard">
+    <div class="row">
+        <!-- Left side columns -->
+        <div class="col-lg-12">
+            <div class="row">
+                <!-- Recent Sales -->
+                <div class="col-12">
+                    <div class="card recent-sales ">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <span id="get" style="border: 2px solid #4caf50; padding: 5px 10px; border-radius: 4px; background-color: #f0f0f0; color: #333; font-weight: bold; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">GET</span>
+                                Search-Resume
+                            </h5>
+                            <hr style="border: 1px solid #ddd; margin: 10px 0;">
+                            <h6 style="font-size: 18px; color: #333; font-weight: bold; margin-top: 15px; text-transform: uppercase; border-bottom: 2px solid #4caf50; display: inline-block; padding-bottom: 5px;">Parameters</h6>
+                            <hr style="border: 1px solid #ddd; margin: 10px 10px;">
+
+                            <form id="search-form" style="font-size: 16px; color: #333; font-weight: bold;">
+
+                                <!-- Text Field (Required) -->
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+                                    <span style="flex: 1.4; text-align: left;">Name</span>
+                                    <input type="text" name="text" placeholder="text" required style="margin-right:72%; max-width:180px; padding: 5px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; color: #333;">
+                                </div>
+
+                                <!-- Years of Experience -->
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+                                    <span style="flex: 1.4; text-align: left;">Years of Experience</span>
+                                    <input type="text" name="years_of_experience" placeholder="years_of_experience" style="margin-right:72%; max-width:180px; padding: 5px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; color: #333;">
+                                </div>
+
+                                <!-- Education -->
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+                                    <span style="flex: 1.4; text-align: left;">Education</span>
+                                    <input type="text" name="education" placeholder="education" style="margin-right:72%; max-width:180px; padding: 5px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; color: #333;">
+                                </div>
+
+                                <!-- Job Title -->
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+                                    <span style="flex: 1.4; text-align: left;">Job Title</span>
+                                    <input type="text" name="job_title" placeholder="job_title" style="margin-right:72%; max-width:180px; padding: 5px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; color: #333;">
+                                </div>
+
+                                <!-- Limit -->
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+                                    <span style="flex: 1.4; text-align: left;">Limit</span>
+                                    <input type="text" name="limit" placeholder="limit" style="margin-right:72%; max-width:180px; padding: 5px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; color: #333;">
+                                </div>
+
+                                <hr style="border: 1px solid #ddd; margin: 10px 0;">
+                                <div style="display: flex; gap: 10px; margin-top: 20px;">
+                                    <!-- Submit Button -->
+                                    <button type="submit" style="flex: 1; background-color: #419cfd; color: white; border: none; padding: 6px 0; font-size: 13px; font-weight: bold; cursor: pointer; border-radius: 5px; transition: background-color 0.3s ease;">
+                                        Execute
+                                    </button>
+
+                                    <!-- Clear Button -->
+                                    <button type="reset" style="flex: 1; background-color: white; color: #419cfd; border: 2px solid #419cfd; padding: 6px 0; font-size: 13px; font-weight: bold; cursor: pointer; border-radius: 5px; transition: background-color 0.3s ease, color 0.3s ease;">
+                                        Clear
+                                    </button>
+                                </div>
+                            </form>
+                            <hr style="border: 1px solid #ddd; margin: 10px 10px;">
+
+                            <h6 style="font-size: 18px; color: #333; font-weight: bold; margin-top: 15px; text-transform: uppercase; border-bottom: 2px solid #4caf50; display: inline-block; padding-bottom: 5px;">Response</h6>
+
+                            <!-- Response Display Section -->
+                            <div id="response-container" style="background-color: black; color: white; padding: 15px; border-radius: 5px; position: relative;">
+                                <pre id="response-data" style="font-size: 15px; font-family: monospace;"></pre>
+                            </div>
+                            <hr style="border: 1px solid #ddd; margin: 10px 10px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    document.getElementById("search-form").addEventListener("submit", function (event) {
+        event.preventDefault(); 
+
+        const formData = new FormData(event.target);
+        const queryParams = new URLSearchParams(formData).toString();
+
+        fetch(`/search-resumes?${queryParams}`, {
+            method: 'GET',
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
+            .then(response => response.json()) 
+            .then(data => {
+                console.log("Response data:", data);
+
+                const responseContainer = document.getElementById("response-container");
+                const responseDataElement = document.getElementById("response-data");
+
+                if (Array.isArray(data) && data.every(item => item.length === 0)) {
+                    responseDataElement.textContent = 'No results found.';
+                } else if (data && typeof data === 'object' && Object.keys(data).length === 0) {
+                    responseDataElement.textContent = 'No data available.';
+                } else {
+                    responseDataElement.textContent = JSON.stringify(data, null, 2);
+                }
+
+                responseContainer.style.display = 'block';
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById("response-data").textContent = 'Error fetching data.';
+                document.getElementById("response-container").style.display = 'block';
+            });
+    });
+</script>
+
